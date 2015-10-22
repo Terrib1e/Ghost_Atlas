@@ -1,2 +1,3 @@
-# Ghost_Atlas
-Web Crawler for Craigslist
+Craigslist scraper for Albany,NY.
+
+Currently set up to scrape for "tech" jobs

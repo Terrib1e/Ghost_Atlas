@@ -1,5 +1,0 @@
-from scrapy.item import Item, Field
-
-class CraigslistTestItem(Item):
-	title = Field()
-	link = Field()
